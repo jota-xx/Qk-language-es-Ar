@@ -19,6 +19,7 @@
         "MIT"
     ],
     "require": {},
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
