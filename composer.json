@@ -1,7 +1,7 @@
 {
-    "name": "jota-xx/Qk-language-es-Ar",
+    "name": "jota-xx/qk-language-es-ar",
     "description": "Magento2 Espanol (AR) Language Pack (es_AR)",
-    "version": "100.0.0",
+    "version": "100.0.1",
     "type": "magento2-language",
     "keywords": [
         "magento",
@@ -14,9 +14,6 @@
         "es_AR",
         "i18n",
         "es"
-    ],
-    "license": [
-        "MIT"
     ],
     "require": {},
     "minimum-stability": "dev",
