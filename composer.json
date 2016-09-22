@@ -1,0 +1,27 @@
+{
+    "name": "Qk/Qk-language-es-Ar",
+    "description": "Magento2 Español (AR) Language Pack (es_AR)",
+    "version": "100.6.22",
+    "type": "magento2-language",
+    "keywords": [
+        "magento",
+        "magento2",
+        "magento 2",
+        "plugin",
+        "module",
+        "french",
+        "language pack",
+        "es_AR",
+        "i18n",
+        "es"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
